@@ -1,0 +1,5 @@
+- Read Clean Code chapters 4, 5, and 6
+
+- Complete coding exercises from weeks 2 and 3
+
+- Decide on a product vision for your Raspberry PiCar
