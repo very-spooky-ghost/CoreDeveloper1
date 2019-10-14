@@ -1,0 +1,3 @@
+- Read chapter 3 "Functions" in Clean Code
+
+- Make sure you have access to class Github and Slack channel

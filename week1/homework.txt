@@ -1,0 +1,5 @@
+- Read chapters 1 and 2 in "Clean Code"
+
+- Finish building your Raspberry PiCar with your team
+
+- Decide on Team Name and choose Scrum Master and Product Owner
